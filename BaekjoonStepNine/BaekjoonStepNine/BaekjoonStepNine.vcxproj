@@ -139,7 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Step1.cpp" />
+    <ClCompile Include="Step1to3.cpp" />
+    <ClCompile Include="Step4.cpp" />
+    <ClCompile Include="Step5.cpp" />
+    <ClCompile Include="Step6.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
